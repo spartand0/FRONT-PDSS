@@ -1,0 +1,17 @@
+{
+    "diagnosis_Expand_headline": "Letzte Tests",
+    "diagnosis_Expand_label_duration": "Dauer ca.",
+    "diagnosis_Expand_label_no_tests": "Bisher keine Tests vorhanden",
+    "diagnosis_Expand_label_minutes": "Minuten",
+    "diagnosis_Expand_btn_start_new_test": "Neuen Test starten",
+    "diagnosis_Expand_btn_information": "Informationen",
+    "diagnosis_Expand_description_child_incorrect_age": "Das ausgewählte Kind liegt außerhalb der Altersempfehlung.",
+    "diagnosis_Expand_status_initialized": "Initiiert",
+    "diagnosis_Expand_status_played": "Gestartet",
+    "diagnosis_Expand_status_paused": "Pausiert",
+    "diagnosis_Expand_status_canceled": "Abgebrochen",
+    "diagnosis_Expand_status_finished": "Abgeschlossen",
+    "diagnosis_session_confirm_delete_title": "Test entfernen ",
+    "diagnosis_session_confirm_delete": "Sind Sie sicher, dass Sie diesen Test entfernen möchten?",
+    "subheadline_results_extended": "Detailauswertung"
+}

@@ -1,0 +1,23 @@
+{
+      "complete_profile_modal_title": "Schließen Sie Ihre Registrierung ab",
+      "complete_profile_modal_header": "Bitte vervollständigen Sie noch folgende Angaben um Ihre Registrierung abzuschließen.",
+      "complete_profile_modal_header_error": "Bitte füllen Sie alle erforderlichen Felder (diese sind mit einem Sternchen *      markiert) aus.",
+      "complete_profile_modal_input_firstName": "Vorname",
+      "complete_profile_modal_input_lastName": "Nachname",
+      "complete_profile_modal_input_submit": "Registrierung abschließen",
+      "complete_profile_modal_input_acceptTerms_par_1": "Ich bestätige, die",
+      "complete_profile_modal_input_acceptTerms_par_2": "AGB und Auftrags­daten­verarbeitungs­vereinbarung für die Nutzung des\nDiagnostik-Pakets PDSS (Patholinguistische Diagnostik bei\nSprachentwicklungs­störungen)",
+      "complete_profile_modal_input_acceptTerms_par_3": "gelesen und akzeptiert zu haben.",
+      "complete_profile_modal_response_header": "Vielen Dank!",
+      "complete_profile_modal_response_body": "Ihre Registrierung wurde erfolgreich abgeschlossen.",
+      "complete_profile_modal_response_link": "Popup schließen",
+      "pinredemption_form_warning_description": "Sie benötigen eine Freischaltung um auf diese Seite zugreifen zu können. Bitte geben Sie dazu einen Pincode ein.",
+      "pinredemption_form_success_description": "Ihre Pineingabe war erfolgreich. Bitte laden Sie die Seite neu, falls diese nicht automatisch aktualisiert wird.",
+      "pinredemption_form_error_description": "Bitte geben Sie einen Pincode ein.",
+      "pinredemption_form_submit_btn_text": "Pincode prüfen",
+      "pinredemption_form_placeholder": "Pincode",
+      "unauthorized_container_title": "Bitte melden Sie sich an",
+      "unauthorized_container_btn_title": "JETZT ANMELDEN",
+      "page_notfound_content_title": "SEITE EXISTIERT NICHT",
+      "page_notfound_content_text": "Wenn Sie die Seite vermissen oder glauben, dass diese existieren sollte, wenden Sie sich  bitte an den Betreiber der Seite."
+}

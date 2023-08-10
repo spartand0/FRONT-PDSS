@@ -1,0 +1,19 @@
+{
+    "diagnosis_details_start_new_test": "START A NEW TEST",
+    "diagnosis_details_out_side_the_age": "The selected child is outside the age recommendation.",
+    "diagnosis_details_information": "INFORMATION",
+    "diagnosis_details_duration_env": "DURATION APPROX.",
+    "diagnosis_details_minutes": "minutes",
+    "diagnosis_details_final_tests": "Final tests",
+    "diagnosis_details_date_time": "DATE/TIME",
+    "diagnosis_details_duration": "DURATION",
+    "diagnosis_details_status": "STATUS",
+    "diagnosis_details_option" : "ENGLISH",
+    "diagnosis_details_title": "ENGLISH",
+    "diagnostic_test_mode_therapist_header_dropdown_btn_new_tab": "ENGLISH",
+    "diagnostic_test_mode_therapist_header_dropdown_btn_child_mode_new_tab": "ENGLISH",
+    "diagnostic_test_mode_therapist_header_dropdown_btn_send_child_mode_via_mail": "ENGLISH",
+    "diagnostic_test_mode_therapist_header_dropdown_btn_copy_child_mode_link": "ENGLISH",
+    "diagnostic_test_mode_therapist_header_dropdown_btn_test_cancel": "ENGLISH",
+    "diagnostic_test_mode_therapist_header_dropdown_btn_label_close_window": "ENGLISH"
+}

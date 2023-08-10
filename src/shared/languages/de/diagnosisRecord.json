@@ -1,0 +1,10 @@
+{
+    "diagnosis_session_record_delete_info": "Audioaufnahmen werden für 6 Monate gespeichert und danach automatisiert gelöscht.",
+    "diagnosis_session_new_record_started": "Neue Aufnahme gestartet",
+    "diagnosis_session_record_start_btn_label": "Tastatur: A",
+    "diagnosis_session_record_audio_label": "Audioaufnahme",
+    "diagnosis_session_record_delete_alert": "Sind Sie sicher, dass Sie diese Audioaufnahme entfernen möchten?",
+    "diagnosis_session_record_delete_alert_title": "Kind entfernen",
+    "diagnosis_session_record_audio_no_data_label": "Keine Aufnahmen vorhanden.",
+    "diagnosis_session_record_audio_records_available": "Aufnahme(n) vorhanden."
+}

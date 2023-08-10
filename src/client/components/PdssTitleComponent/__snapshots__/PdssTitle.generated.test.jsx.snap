@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PdssTitle> should render component 1`] = `
+<div
+  className="cell"
+>
+  <h3 />
+</div>
+`;

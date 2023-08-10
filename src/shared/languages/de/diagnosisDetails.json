@@ -1,0 +1,16 @@
+{
+    "diagnosis_details_start_new_test": "NEUEN TEST STARTEN",
+    "diagnosis_details_out_side_the_age": "Das ausgewählte Kind liegt außerhalb der Altersempfehlung.",
+    "diagnosis_details_information":"INFORMATIONEN",
+    "diagnosis_details_duration_env" : "DAUER CA.",
+    "diagnosis_details_minutes": "Minuten",
+    "diagnosis_details_final_tests": "Letzte Tests",
+    "diagnosis_details_date_time" : "Datum/Uhrzeit",
+    "diagnosis_details_duration" : "DAUER",
+    "diagnosis_details_status" : "Status",
+    "diagnosis_details_bar" : "Fortschritt",
+    "diagnosis_details_option" : "Optionen",
+    "diagnosis_details_title": "Test"
+
+
+}

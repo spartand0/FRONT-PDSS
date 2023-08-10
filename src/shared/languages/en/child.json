@@ -1,0 +1,40 @@
+{
+  "child_headline": "ENGLISH",
+  "child_headline_new": "ENGLISH",
+  "sub_headline_child_information": "ENGLISH",
+	"child_label_search_by": "ENGLISH",
+	"child_label_sort_by": "ENGLISH",
+	"child_label_search": "ENGLISH",
+	"child_label_lastName": "ENGLISH",
+	"child_label_firstName": "ENGLISH",
+	"child_label_birthday": "ENGLISH",
+  "child_label_age": "ENGLISH",
+  "child_label_gender": "ENGLISH",
+  "child_label_languages": "ENGLISH",
+  "child_label_languages_list": "ENGLISH",
+  "child_label_address":"ENGLISH",
+  "child_label_zip": "ENGLISH",
+  "child_label_town": "ENGLISH",
+  "child_label_health_insurance": "ENGLISH",
+  "child_label_other": "ENGLISH",
+  "child_label_created":"ENGLISH",
+  "child_label_please_select":"ENGLISH",
+  "child_btn_add_new": "ENGLISH",
+  "child_btn_cancel": "ENGLISH",
+  "child_btn_save": "ENGLISH",
+  "child_btn_saved": "ENGLISH",
+  "child_option_show_tests": "ENGLISH",
+  "child_option_test": "ENGLISH",
+  "child_option_edit":"ENGLISH",
+  "child_option_export": "ENGLISH",
+  "child_option_remove":"ENGLISH",
+  "child_confirm_delete": "ENGLISH",
+  "child_data_empty": "ENGLISH",
+ "child_created_success": "ENGLISH",
+ "lang_error_msg": "ENGLISH",
+ "child_confirm_delete_title": "ENGLISH"
+
+
+
+
+}

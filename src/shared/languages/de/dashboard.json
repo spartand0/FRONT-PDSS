@@ -1,0 +1,14 @@
+{
+    "headline": "Dashboard",
+    "label_new_child": "Neues Kind anlegen",
+    "label_show_children": "Kinderliste anzeigen",
+    "label_export_children": "Kinderliste exportieren",
+    "label_import_children": "Kinderliste importieren",
+    "label_show_tests": "Übersicht der Tests",
+    "label_show_all_tests": "Zeige alle Tests",
+    "label_show_t_profile": "Zeige T-Wert-Profil",
+    "label_show_export": "Zum Ergebnisexport (als PDF)",
+    "btn_go_to_children": "Zur Kinderliste",
+    "btn_go_to_diagnostics": "Zur Übersicht der Tests",
+    "btn_go_to_analysis": "Zur Auswertung"
+}

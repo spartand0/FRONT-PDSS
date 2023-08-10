@@ -1,0 +1,16 @@
+{
+    "diagnosis_Expand_headline": "ENGLISH",
+    "diagnosis_Expand_label_duration": "ENGLISH",
+    "diagnosis_Expand_label_no_tests": "ENGLISH",
+    "diagnosis_Expand_label_minutes": "ENGLISH",
+    "diagnosis_Expand_btn_start_new_test": "ENGLISH",
+    "diagnosis_Expand_btn_information": "ENGLISH",
+    "diagnosis_Expand_description_child_incorrect_age": "ENGLISH",
+    "diagnosis_Expand_status_initialized": "ENGLISH",
+        "diagnosis_Expand_status_played": "ENGLISH",
+        "diagnosis_Expand_status_paused": "ENGLISH",
+        "diagnosis_Expand_status_canceled": "ENGLISH",
+        "diagnosis_Expand_status_finished": "ENGLISH",
+    "diagnosis_session_confirm_delete_title":"ENGLISH",
+        "diagnosis_session_confirm_delete":"ENGLISH"
+}
