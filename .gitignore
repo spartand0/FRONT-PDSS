@@ -25,3 +25,5 @@ yarn-error.log*
 /package-lock.json
 /.env
 public/files
+/coverage/lcov-report
+*.test.*
