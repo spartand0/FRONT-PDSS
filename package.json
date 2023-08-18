@@ -32,6 +32,7 @@
 		"yup": "^0.32.11"
 	},
 	"devDependencies": {
+		"jest-sonar": "^0.2.16",
 		"react-scripts": "5.0.1"
 	},
 	"scripts": {
@@ -39,7 +40,7 @@
 		"lin:dev": "BROWSER=none  REACT_APP_ENVIRONMENT=local    env-cmd -f ./environnement/.local.env react-scripts start",
 		"build:dev": "set \"GENERATE_SOURCEMAP=false\" && react-scripts build",
 		"build:prod": " REACT_APP_ENVIRONMENT=production  cp ./environnement/.prod.env  .env &&  react-scripts build",
-		"test": "react-scripts test --coverage",
+		"test": "react-scripts test --coverage --no-cache",
 		"eject": "react-scripts eject"
 	},
 	"eslintConfig": {

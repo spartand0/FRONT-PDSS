@@ -26,4 +26,6 @@ yarn-error.log*
 /.env
 public/files
 /coverage/lcov-report
-*.test.*
+*test.jsx
+*jsx.snap
+*test.js
