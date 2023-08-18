@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\containers\BookHomeContainer\index.generated.test.jsx">
+    <testCase name="&lt;BookHomeContainer&gt; should render component" duration="103">
+      <failure message="TypeError: t is not a function"><![CDATA[TypeError: t is not a function
+    at BookHomeContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\containers\BookHomeContainer\index.jsx:17:14)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\containers\BookHomeContainer\index.generated.test.jsx:16:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\containers\BookHomeContainer\index.generated.test.jsx:19:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisInfoGalleryComponent\index.generated.test.jsx">
+    <testCase name="&lt;DiagnosisInfoGalleryComponent&gt; should render component" duration="128">
+      <failure message="TypeError: Cannot read properties of undefined (reading &apos;indexOf&apos;)"><![CDATA[TypeError: Cannot read properties of undefined (reading 'indexOf')
+    at DiagnosisInfoGalleryComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisInfoGalleryComponent\index.jsx:6:48)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisInfoGalleryComponent\index.generated.test.jsx:8:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisInfoGalleryComponent\index.generated.test.jsx:11:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\FAQPage\index.generated.test.jsx">
+    <testCase name="&lt;FAQPage&gt; should render component" duration="91">
+      <failure message="TypeError: t is not a function"><![CDATA[TypeError: t is not a function
+    at FAQPage (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\FAQPage\index.jsx:8:15)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\FAQPage\index.generated.test.jsx:10:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\FAQPage\index.generated.test.jsx:13:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DashboardCardItemComponent\index.generated.test.jsx">
+    <testCase name="&lt;DashboardCardItemComponent&gt; should render component" duration="42">
+      <failure message="TypeError: Cannot read properties of undefined (reading &apos;icon&apos;)"><![CDATA[TypeError: Cannot read properties of undefined (reading 'icon')
+    at DashboardCardItemComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DashboardCardItemComponent\index.jsx:12:38)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DashboardCardItemComponent\index.generated.test.jsx:12:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DashboardCardItemComponent\index.generated.test.jsx:15:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js">
+    <testCase name="useCompareCurrentLocation should expose a function" duration="5"/>
+    <testCase name="useCompareCurrentLocation useCompareCurrentLocation should return expected output" duration="4">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:19:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="mapBodyToQueries should expose a function" duration="1"/>
+    <testCase name="mapBodyToQueries mapBodyToQueries should return expected output" duration="2">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:29:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="obj2FormData should expose a function" duration="1"/>
+    <testCase name="obj2FormData obj2FormData should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:39:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="customDelay should expose a function" duration="1"/>
+    <testCase name="customDelay customDelay should return expected output" duration="16">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:49:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="stringToCamelCase should expose a function" duration="3"/>
+    <testCase name="stringToCamelCase stringToCamelCase should return expected output" duration="2">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:59:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="deleteCookies should expose a function" duration="0"/>
+    <testCase name="deleteCookies deleteCookies should return expected output" duration="0">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:69:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="getAge should expose a function" duration="1"/>
+    <testCase name="getAge getAge should return expected output" duration="2">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:79:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="getUserSUBId should expose a function" duration="0"/>
+    <testCase name="getUserSUBId getUserSUBId should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:89:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="getUserAuthProfileItem should expose a function" duration="0"/>
+    <testCase name="getUserAuthProfileItem getUserAuthProfileItem should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:99:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="eraseCookie should expose a function" duration="1"/>
+    <testCase name="eraseCookie eraseCookie should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:109:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="getItemsFromCookies should expose a function" duration="0"/>
+    <testCase name="getItemsFromCookies getItemsFromCookies should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:119:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="getDistance should expose a function" duration="0"/>
+    <testCase name="getDistance getDistance should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:129:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="calculateAgePerMonth should expose a function" duration="1"/>
+    <testCase name="calculateAgePerMonth calculateAgePerMonth should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:139:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="mapWindowsParamsQueriesToObject should expose a function" duration="1"/>
+    <testCase name="mapWindowsParamsQueriesToObject mapWindowsParamsQueriesToObject should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:149:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="mapCurrentLocationQueriesToJSON should expose a function" duration="0"/>
+    <testCase name="mapCurrentLocationQueriesToJSON mapCurrentLocationQueriesToJSON should return expected output" duration="6">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:159:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="mapCurrentLocationQueriesToJSONAside should expose a function" duration="0"/>
+    <testCase name="mapCurrentLocationQueriesToJSONAside mapCurrentLocationQueriesToJSONAside should return expected output" duration="0">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:169:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="waitForElm should expose a function" duration="0"/>
+    <testCase name="waitForElm waitForElm should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:179:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="CryptoProviders should expose a function" duration="0"/>
+    <testCase name="CryptoProviders CryptoProviders should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:189:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="getPercent should expose a function" duration="0"/>
+    <testCase name="getPercent getPercent should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:199:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="linkIsActive should expose a function" duration="1"/>
+    <testCase name="linkIsActive linkIsActive should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:209:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="navLinkIsActive should expose a function" duration="1"/>
+    <testCase name="navLinkIsActive navLinkIsActive should return expected output" duration="0">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:219:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="progressRing should expose a function" duration="0"/>
+    <testCase name="progressRing progressRing should return expected output" duration="0">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:229:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="scrollToTop should expose a function" duration="0"/>
+    <testCase name="scrollToTop scrollToTop should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:239:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="textSpeechProvider should expose a function" duration="1"/>
+    <testCase name="textSpeechProvider textSpeechProvider should return expected output" duration="0">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:249:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="replaceLine should expose a function" duration="0"/>
+    <testCase name="replaceLine replaceLine should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\index.generated.test.js:259:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisSessionItemComponent\index.generated.test.jsx">
+    <testCase name="&lt;DiagnosisSessionItemComponent&gt; should render component" duration="79">
+      <failure message="TypeError: Cannot read properties of undefined (reading &apos;diagnostic&apos;)"><![CDATA[TypeError: Cannot read properties of undefined (reading 'diagnostic')
+    at DiagnosisSessionItemComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisSessionItemComponent\index.jsx:70:31)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisSessionItemComponent\index.generated.test.jsx:16:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisSessionItemComponent\index.generated.test.jsx:19:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisInfoComponent\index.generated.test.jsx">
+    <testCase name="&lt;DiagnosisInfoComponent&gt; should render component" duration="74">
+      <failure message="TypeError: Cannot destructure property &apos;handleShowGallery&apos; of &apos;((cov_1gubscbeul(...).s[2]++) , (0 , _useDiagnosisInfo.default)(...))&apos; as it is undefined."><![CDATA[TypeError: Cannot destructure property 'handleShowGallery' of '((cov_1gubscbeul(...).s[2]++) , (0 , _useDiagnosisInfo.default)(...))' as it is undefined.
+    at DiagnosisInfoComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisInfoComponent\index.jsx:9:10)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisInfoComponent\index.generated.test.jsx:12:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisInfoComponent\index.generated.test.jsx:15:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\DiagnosticTestPages\useDiagnosticsTest.generated.test.jsx">
+    <testCase name="useDiagnosticsTherapistMode should expose a function" duration="5"/>
+    <testCase name="useDiagnosticsTherapistMode useDiagnosticsTherapistMode should return expected output" duration="6">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\DiagnosticTestPages\useDiagnosticsTest.generated.test.jsx:33:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+    <testCase name="useDiagnosticsChildMode should expose a function" duration="1"/>
+    <testCase name="useDiagnosticsChildMode useDiagnosticsChildMode should return expected output" duration="1">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\DiagnosticTestPages\useDiagnosticsTest.generated.test.jsx:43:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\containers\CardsHomeContainer\index.generated.test.jsx">
+    <testCase name="&lt;CardsHomeContainer&gt; should render component" duration="33">
+      <failure message="TypeError: t is not a function"><![CDATA[TypeError: t is not a function
+    at CardsHomeContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\containers\CardsHomeContainer\index.jsx:11:12)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\containers\CardsHomeContainer\index.generated.test.jsx:10:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\containers\CardsHomeContainer\index.generated.test.jsx:13:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationGrammerComponent\scoreComponent.generated.test.jsx">
+    <testCase name="&lt;ScoreComponent&gt; should render component" duration="40">
+      <failure message="TypeError: Cannot read properties of undefined (reading &apos;reduce&apos;)"><![CDATA[TypeError: Cannot read properties of undefined (reading 'reduce')
+    at ScoreComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationGrammerComponent\scoreComponent.jsx:5:39)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationGrammerComponent\scoreComponent.generated.test.jsx:5:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationGrammerComponent\scoreComponent.generated.test.jsx:8:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\FaqAccordionComponent\index.generated.test.jsx">
+    <testCase name="&lt;Accordion&gt; should render component" duration="30">
+      <failure message="TypeError: Cannot read properties of undefined (reading &apos;map&apos;)"><![CDATA[TypeError: Cannot read properties of undefined (reading 'map')
+    at Accordion (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\FaqAccordionComponent\index.jsx:17:10)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\FaqAccordionComponent\index.generated.test.jsx:8:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\FaqAccordionComponent\index.generated.test.jsx:11:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\NotFoundPage\index.generated.test.jsx">
+    <testCase name="&lt;NotFoundPage&gt; should render component" duration="32">
+      <failure message="TypeError: t is not a function"><![CDATA[TypeError: t is not a function
+    at NotFoundPage (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\NotFoundPage\index.jsx:8:47)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\NotFoundPage\index.generated.test.jsx:10:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\NotFoundPage\index.generated.test.jsx:13:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\AccountVerify\index.generated.test.jsx">
+    <testCase name="&lt;AccountVerify&gt; should render component" duration="124">
+      <failure message="TypeError: t is not a function"><![CDATA[TypeError: t is not a function
+    at AccountVerify (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\AccountVerify\index.jsx:11:11)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\AccountVerify\index.generated.test.jsx:10:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\AccountVerify\index.generated.test.jsx:13:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisGroupComponent\index.generated.test.jsx">
+    <testCase name="&lt;DiagnosisGroupComponent&gt; should render component" duration="38">
+      <failure message="TypeError: Cannot read properties of undefined (reading &apos;name&apos;)"><![CDATA[TypeError: Cannot read properties of undefined (reading 'name')
+    at DiagnosisGroupComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisGroupComponent\index.jsx:14:42)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisGroupComponent\index.generated.test.jsx:8:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisGroupComponent\index.generated.test.jsx:11:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\DiagnosticTestPages\ChildModePage.generated.test.jsx">
+    <testCase name="&lt;ChildModePage&gt; should render component" duration="45">
+      <failure message="TypeError: Cannot destructure property &apos;diagnosticTestContent&apos; of &apos;((cov_3omxa5zrc(...).s[2]++) , (0 , _useDiagnosticsTest.useDiagnosticsChildMode)(...))&apos; as it is undefined."><![CDATA[TypeError: Cannot destructure property 'diagnosticTestContent' of '((cov_3omxa5zrc(...).s[2]++) , (0 , _useDiagnosticsTest.useDiagnosticsChildMode)(...))' as it is undefined.
+    at ChildModePage (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\DiagnosticTestPages\ChildModePage.jsx:11:10)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\DiagnosticTestPages\ChildModePage.generated.test.jsx:18:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\DiagnosticTestPages\ChildModePage.generated.test.jsx:21:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\FaqAccordionComponent\AccordionItem.generated.test.jsx">
+    <testCase name="&lt;AccordionItem&gt; should render component" duration="39">
+      <failure message="TypeError: Cannot destructure property &apos;question&apos; of &apos;((cov_22rnmnrcdj(...).s[1]++) , faq)&apos; as it is undefined."><![CDATA[TypeError: Cannot destructure property 'question' of '((cov_22rnmnrcdj(...).s[1]++) , faq)' as it is undefined.
+    at AccordionItem (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\FaqAccordionComponent\AccordionItem.jsx:5:10)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\FaqAccordionComponent\AccordionItem.generated.test.jsx:5:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\FaqAccordionComponent\AccordionItem.generated.test.jsx:8:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationTableComponent\index.generated.test.jsx">
+    <testCase name="&lt;EvaluationTableComponent&gt; should render component" duration="50">
+      <failure message="TypeError: Cannot read properties of undefined (reading &apos;head&apos;)"><![CDATA[TypeError: Cannot read properties of undefined (reading 'head')
+    at EvaluationTableComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationTableComponent\index.jsx:17:14)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationTableComponent\index.generated.test.jsx:5:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationTableComponent\index.generated.test.jsx:8:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\formHelpers.generated.test.js">
+    <testCase name="isValidatedForm should expose a function" duration="25"/>
+    <testCase name="isValidatedForm isValidatedForm should return expected output" duration="3">
+      <failure message="Error: expect(received).toBeTruthy()"><![CDATA[Error: expect(received).toBeTruthy()
+
+Received: false
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\shared\helpers\properties\formHelpers.generated.test.js:10:19)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationCardComponent\index.generated.test.jsx">
+    <testCase name="&lt;EvaluationCardComponent&gt; should render component" duration="25">
+      <failure message="TypeError: Cannot read properties of undefined (reading &apos;interpretation&apos;)"><![CDATA[TypeError: Cannot read properties of undefined (reading 'interpretation')
+    at EvaluationCardComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationCardComponent\index.jsx:5:22)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationCardComponent\index.generated.test.jsx:5:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationCardComponent\index.generated.test.jsx:8:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\CancelTestPopupComponent\index.generated.test.jsx">
+    <testCase name="&lt;CancelTestPopupComponent&gt; should render component" duration="30">
+      <failure message="TypeError: t is not a function"><![CDATA[TypeError: t is not a function
+    at CancelTestPopupComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\CancelTestPopupComponent\index.jsx:13:46)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\CancelTestPopupComponent\index.generated.test.jsx:5:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\CancelTestPopupComponent\index.generated.test.jsx:8:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DownloadFilesListComponent\index.generated.test.jsx">
+    <testCase name="&lt;DownloadFilesListComponent&gt; should render component" duration="36">
+      <failure message="TypeError: t is not a function"><![CDATA[TypeError: t is not a function
+    at DownloadFilesListComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DownloadFilesListComponent\index.jsx:25:12)
+    at renderWithHooks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:6351:18)
+    at mountIndeterminateComponent (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:9855:13)
+    at beginWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:11312:16)
+    at performUnitOfWork (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15811:12)
+    at workLoopSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15745:5)
+    at renderRootSync (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15717:7)
+    at performSyncWorkOnRoot (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:15422:20)
+    at flushSyncCallbacks (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2597:22)
+    at flushSyncCallbacksOnlyInLegacyMode (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:2576:5)
+    at scheduleUpdateOnFiber (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:14910:7)
+    at updateContainer (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:17770:5)
+    at Object.create (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\react-test-renderer\cjs\react-test-renderer.development.js:18510:3)
+    at renderTree (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DownloadFilesListComponent\index.generated.test.jsx:5:37)
+    at Object.<anonymous> (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DownloadFilesListComponent\index.generated.test.jsx:8:12)
+    at Promise.then.completed (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:391:28)
+    at new Promise (<anonymous>)
+    at callAsyncCircusFn (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\utils.js:316:10)
+    at _callCircusTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:218:40)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at _runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:155:3)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:66:9)
+    at _runTestsForDescribeBlock (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:60:9)
+    at run (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\run.js:25:3)
+    at runAndTransformResultsToJestFormat (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapterInit.js:170:21)
+    at jestAdapter (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-circus\build\legacy-code-todo-rewrite\jestAdapter.js:82:19)
+    at runTestInternal (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:389:16)
+    at runTest (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\runTest.js:475:34)
+    at Object.worker (C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\node_modules\jest-runner\build\testWorker.js:133:12)]]></failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\containers\NavListContainer\index.generated.test.jsx">
+    <testCase name="&lt;NavListContainer&gt; should render component" duration="56"/>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\LoginPage\index.generated.test.jsx">
+    <testCase name="&lt;LoginPage&gt; should render component" duration="35"/>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\ChildTestComponent\index.generated.test.jsx">
+    <testCase name="&lt;ChildTestComponent&gt; should render component" duration="35"/>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\layouts\GenericModalLayout\index.generated.test.jsx">
+    <testCase name="&lt;GenericModalLayout&gt; should render component" duration="23"/>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisGroupListComponent\index.generated.test.jsx">
+    <testCase name="&lt;DiagnosisGroupListComponent&gt; should render component" duration="25"/>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\ChildProgressTestHeader\index.generated.test.jsx">
+    <testCase name="&lt;ChildProgressTestHeader&gt; should render component" duration="22"/>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationExtendedAnswerComponent\index.generated.test.jsx">
+    <testCase name="&lt;EvaluationExtendedAnswerComponent&gt; should render component" duration="37"/>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\PdssTitleComponent\PdssTitle.generated.test.jsx">
+    <testCase name="&lt;PdssTitle&gt; should render component" duration="43"/>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationGrammerComponent\DiagnosticAnalysisComponent.generated.test.jsx">
+    <testCase name="&lt;DiagnosticAnalysisComponent&gt; should render component" duration="35"/>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\HomePage\index.generated.test.jsx">
+    <testCase name="&lt;HomePage&gt; should render component" duration="58"/>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\containers\FullScreenLoaderContainer\index.generated.test.jsx">
+    <testCase name="&lt;FullScreenLoaderContainer&gt; should render component" duration="26"/>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\BuyPage\index.generated.test.jsx">
+    <testCase name="&lt;BuyPage&gt; should render component" duration="27"/>
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\ExportEvaluationPdfPage\index.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\LogoutPage\index.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\EvaluationPage\EvaluationAsidePage.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\DiagnosisPage\DiagnosisAsidePage.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\DiagnosisPage\index.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationItemComponent\index.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\containers\EvaluationAsideContainer\index.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\containers\ChildBodyListContainer\index.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\containers\DiagnosisTestHeaderContainer\index.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\containers\EvaluationListContainer\index.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\ExportEvaluationComponent\TableAccordionEvaluationSection.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationGrammerComponent\answers.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\EvaluationGrammerComponent\index.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisListComponent\index.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\ExportEvaluationComponent\BodyTable3N.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\ExportEvaluationComponent\ScoreSection.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\ExportEvaluationComponent\HeaderTable3N.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\pages\DiagnosticTestPages\TherapistModePage.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\ExportEvaluationComponent\BodyTable5N.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\DiagnosisItemComponent\index.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\ContentItemComponent\useContentItemComponent.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\ContentItemComponent\index.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\config\index.generated.test.js">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\config\routes.generated.test.js">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\index.generated.test.js">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\client\components\ChildItemComponent\index.generated.test.jsx">
+  </file>
+  <file path="C:\Users\SamiSGHAIER\OneDrive - Mobelite\Desktop\FRONT-PDSS\src\App.generated.test.jsx">
+  </file>
+</testExecutions>
